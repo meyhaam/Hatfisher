@@ -2543,3 +2543,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.02-19.21.36:663][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.85 sec)
 [2024.03.02-19.21.36:665][963]AssetCheck: New page: Asset Save: PauseWidget
 [2024.03.02-19.21.36:665][963]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MiriamFolder/UI/Menu/PauseWidget.PauseWidget
+[2024.03.02-19.29.15:087][ 85]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:51.175 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 26569 files in 28844 folders with total size 5876 MiB.
+[2024.03.02-20.29.15:069][884]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:51.157 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 26569 files in 28844 folders with total size 5876 MiB.
